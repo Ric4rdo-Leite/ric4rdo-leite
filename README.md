@@ -11,7 +11,7 @@
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ricardo20.mp4)
 
-### As ferramentas que estou aprendendo atualmente são::
+### As ferramentas que estou aprendendo atualmente são:
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
