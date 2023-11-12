@@ -1,6 +1,6 @@
 ## Olá, eu sou o Ricardo Leite. 👋🏼
 
-### Eu sou um estudante de programação, atualmente estudando Desenvolvimento Full Stack na Estácio, e estou no meu primeiro semestre.
+### Eu sou um estudante de programação, atualmente estudando Desenvolvimento Full Stack na Estácio, e estou no meu segundo semestre.
 ### Apaixonado por tecnologia e como ela interage conosco em nosso cotidiano, aprendendo mais a cada dia! 🖥️
 
 ![Ricardo GitHub status](https://github-readme-stats.vercel.app/api?username=Ric4rdo-Leite&show_icons=true&theme=radical)
